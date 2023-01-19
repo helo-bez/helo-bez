@@ -5,5 +5,5 @@
 - 🤔 Estudando HTML5, CSS3 e JavaScript
 - 💖 Pronomes: ela/dela - she/her
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?helo-bez=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
