@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Helô.
 
-- 🔭 Sales Intern - Cybersegurança (NTT Ltd.)
-- 🌱 Cursando Ciência e Tecnologia na Universidade Federal do ABC, e seguindo para a área de Engenharia Aeroespacial (talvez Ciência da Computação também, quem sabe?)
+- 🔭 Techincal Architect Intern - Cybersecurity (NTT DATA)
+- 🌱 Cursando  Bacharelado em Engenharia da Informação na UFABC e Tecnólogo em Segurança da Informação na UNIP
 - 🤔 Estudando HTML5, CSS3 e JavaScript
 - 💖 Pronomes: ela/dela - she/her
 
