@@ -1,8 +1,8 @@
 ## Oi! Eu sou a Helô.
 
-- 🔭 Techincal Architect Intern - Cybersecurity (NTT DATA)
+- 🔭 Techincal Architect - Cybersecurity (NTT DATA)
 - 🌱 Cursando  Bacharelado em Engenharia da Informação na UFABC e Tecnólogo em Segurança da Informação na UNIP
-- 🤔 Estudando HTML5, CSS3 e JavaScript
+- 🤔 Estudando HTML5, CSS3, Javascript, Python, e algumas coisinhas aí :D
 - 💖 Pronomes: ela/dela - she/her
 
 <div style="display: inline_block"><br>
